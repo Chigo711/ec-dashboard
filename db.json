@@ -1,0 +1,77 @@
+
+
+{
+ 
+  "candidates": [
+    { "id": 1,
+    "name": "Immaculata Emmanuel Effiong", 
+    "role": "SRC Treasurer",
+    "img": "immaculata.jpg"
+},
+    { 
+    "id": 2, 
+    "name": "Elera Obari",
+    "role": "SRC Vice President",
+    "img": "elera.jpg"
+},
+    { 
+    "id": 3, 
+    "name": "Tooshar Sauntoo", 
+    "role": "ALU Alive SRC Committee Head",
+    "img": "tooshar.jpg" 
+},
+    { 
+    "id": 4, 
+    "name": "Umar Kamani",
+    "role": "SRC President", 
+    "img": "umar.jpg"
+},
+    { 
+    "id": 5, "name": 
+    "Tako Nellyvine MIZERO",
+    "role": "SRC Treasurer",
+    "img": "nelly.jpeg"
+},
+    { 
+    "id": 6, 
+    "name": "Kevin Ikuzwe",
+    "role" : "SRC Clubs and Societies Committee Head",
+    "img": "kelvin.jpg"
+},
+    { 
+    "id": 7, 
+    "name": "Chisom Louisa Obueze",
+    "role": "SRC Vice President",
+    "img": "chisom.jpg"
+},
+    { 
+    "id": 8, 
+    "name": "Olivier Ishimwe",
+    "role": "SRC Social Transformation Committee Head",
+    "img": "ishimweO.jpeg"
+},
+    {
+    "id": 9, "name": "Moulika Mugeni",
+    "role": "ALU Alive SRC Committee Head",
+    "img": "moulika.jpeg"
+},
+    { 
+    "id": 10, 
+    "name": "Farhaan Khuroolah",
+    "role": "SRC Clubs and Societies Committee Head",
+    "img": "farhaan.jpg"
+},
+    { 
+    "id": 11, 
+    "name": "Kimunila Zhakata",
+    "role": "SRC Clubs and Societies Committee Head",
+    "img": "zahkata.JPG"
+},
+    { 
+    "id": 12, 
+    "name": "Yvette Uwase Ishimwe", 
+    "role": "SRC Clubs and Societies Committee Head",
+    "img": "yvette.jpg"
+}
+]
+}
