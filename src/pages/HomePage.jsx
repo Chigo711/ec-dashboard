@@ -8,62 +8,73 @@ const candidates = [
   {
     name: "Immaculata Emmanuel",
     role: "Src Treasurer",
-    img: `../../assets/immaculata.jpg`,
+    img: assets.immaculata,
   },
   {
     name: "Elera Obari",
     role: "Vice President",
     id: 2,
+    img: assets.elera,
   },
   {
     name: "Umar Kamani",
     role: "SRC President",
     id: 3,
+    img: assets.umar,
   },
   {
     name: "Tako Nellyvine MIZERO",
     id: 4,
     role: "SRC Treasurer",
+    img: assets.nelly,
   },
   {
     id: 5,
     name: "Chisom Louisa Obueze",
     role: "SRC Vice President",
+    img: assets.chisom,
   },
   {
     id: 6,
     name: "Olivier Ishimwe",
     role: "SRC Social Transformation Committee Head",
+    img: assets.olivier,
   },
   {
     id: 7,
     name: "Farhaan Khuroolah",
     role: "SRC Clubs and Societies Committee Head",
+    img: assets.farhaan,
   },
   {
     id: 8,
     name: "Kimunila Zhakata",
     role: "SRC Clubs and Societies Committee Head",
+    img: assets.kimunila,
   },
   {
     id: 9,
     name: "Yvette Uwase Ishimwe",
     role: "SRC Clubs and Societies Committee Head",
+    img: assets.yvette,
   },
   {
     id: 10,
     name: "Janique maduray",
     role: "SRC Secretary",
+    img: assets.janique,
   },
   {
     id: 11,
     name: "Lisset Mukiza",
     role: "SRC Academic Affairs Committee Head",
+    img: assets.lisette,
   },
   {
     id: 12,
     name: "Yahya Bouhaik",
     role: "Src President",
+    img: assets.yahya,
   },
 ];
 
@@ -83,7 +94,7 @@ function HomePage() {
             className="flex items-center gap-[2rem] flex-col w-full justify-between bg-white shadow-md rounded-lg p-4"
           >
             <img
-              src={candidates.img}
+              src={candidate.img}
               // new URL(`../assets/${candidate.img}`, import.meta.url).href
               alt={candidate.name}
               className="w-32 h-32 object-cover rounded-full"
@@ -97,12 +108,12 @@ function HomePage() {
             <h2 className="text-xl font-bold text-center">{candidate.name}</h2>
             <p className="text-[#6072e7] font-medium">{candidate.role}</p>
             <p className="text-gray-600 text-sm text-center">{candidate.bio}</p>
-            <Button
+            {/* <Button
               onClick={() => console.log(`Nominated ${candidate.name}`)}
               className="bg-[#6072e7] text-white px-4 py-2 rounded hover:bg-[#4a5acf] transition-colors"
             >
               Nominate
-            </Button>
+            </Button> */}
           </li>
         ))}
       </ul>
