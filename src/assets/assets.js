@@ -10,7 +10,7 @@ import lisette from "./lisette.jpg";
 import yvette from "./yvette.jpg";
 import janique from "./janique.jpg";
 import umar from "./umar.jpg";
-import kimunila from "./zahkata.jpg";
+import kimunila from "./zahkata.JPG";
 
 const assets = {
   banner,
