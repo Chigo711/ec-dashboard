@@ -1,0 +1,11 @@
+{
+  "env": {
+    "node": true,
+    "commonjs": true
+  },
+  "plugins": ["node"],
+  "extends": ["eslint:recommended", "plugin:node/recommended"],
+  "rules": {
+    "node/no-unpublished-require": "off"
+  }
+}
