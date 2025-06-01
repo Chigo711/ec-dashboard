@@ -11,6 +11,7 @@ import yvette from "./yvette.jpg";
 import janique from "./janique.jpg";
 import umar from "./umar.jpg";
 import kimunila from "./zahkata.JPG";
+import ahman from "./ahman.jpg";
 
 const assets = {
   banner,
@@ -26,6 +27,7 @@ const assets = {
   janique,
   umar,
   kimunila,
+  ahman,
 };
 
 export default assets;

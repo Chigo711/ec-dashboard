@@ -76,6 +76,12 @@ const candidates = [
     role: "Src President",
     img: assets.yahya,
   },
+  {
+    id: 13,
+    name: "Amahn Heuvel",
+    role: "ALU Alive SRC Committee Head ",
+    img: assets.ahman,
+  },
 ];
 
 function HomePage() {
