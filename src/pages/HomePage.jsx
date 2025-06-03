@@ -87,7 +87,14 @@ const candidates = [
 function HomePage() {
   return (
     <div className="min-h-[100vh] py-[4rem] px-[2rem] bg-[#f0f0ff]">
-      <h1>ALU SRC 2025 Candidates</h1>
+      <div
+        className="w-full bg-cover bg-center h-[10rem] flex justify-center items-center"
+        style={{ backgroundImage: `url(${banner})` }}
+      >
+        <h1 className="text-white text-[3rem] font-bold italic ">
+          ALU SRC 2025 Candidates
+        </h1>
+      </div>
       <ul
         className="grid w-full"
         style={{
