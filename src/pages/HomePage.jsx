@@ -25,7 +25,7 @@ const candidates = [
   {
     name: "Tako Nellyvine MIZERO",
     id: 4,
-    role: "SRC Treasurer",
+    role: "SRC Secretary",
     img: assets.nelly,
   },
   {
@@ -40,44 +40,44 @@ const candidates = [
     role: "SRC Social Transformation Committee Head",
     img: assets.olivier,
   },
+  // {
+  //   id: 7,
+  //   name: "Farhaan Khuroolah",
+  //   role: "SRC Clubs and Societies Committee Head",
+  //   img: assets.farhaan,
+  // },
   {
     id: 7,
-    name: "Farhaan Khuroolah",
-    role: "SRC Clubs and Societies Committee Head",
-    img: assets.farhaan,
-  },
-  {
-    id: 8,
     name: "Kimunila Zhakata",
     role: "SRC Clubs and Societies Committee Head",
     img: assets.kimunila,
   },
   {
-    id: 9,
+    id: 8,
     name: "Yvette Uwase Ishimwe",
     role: "SRC Clubs and Societies Committee Head",
     img: assets.yvette,
   },
+  // {
+  //   id: 9,
+  //   name: "Janique maduray",
+  //   role: "SRC Secretary",
+  //   img: assets.janique,
+  // },
   {
-    id: 10,
-    name: "Janique maduray",
-    role: "SRC Secretary",
-    img: assets.janique,
-  },
-  {
-    id: 11,
+    id: 9,
     name: "Lisset Mukiza",
     role: "SRC Academic Affairs Committee Head",
     img: assets.lisette,
   },
   {
-    id: 12,
+    id: 10,
     name: "Yahya Bouhaik",
     role: "Src President",
     img: assets.yahya,
   },
   {
-    id: 13,
+    id: 11,
     name: "Amahn Heuvel",
     role: "ALU Alive SRC Committee Head ",
     img: assets.ahman,
@@ -87,6 +87,7 @@ const candidates = [
 function HomePage() {
   return (
     <div className="min-h-[100vh] py-[4rem] px-[2rem] bg-[#f0f0ff]">
+      <h1>ALU SRC 2025 Candidates</h1>
       <ul
         className="grid w-full"
         style={{
