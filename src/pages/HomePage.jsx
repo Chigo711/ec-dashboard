@@ -7,12 +7,12 @@ import NominationModal from "../components/NominationModal";
 const candidates = [
   {
     name: "Immaculata Emmanuel",
-    role: "Src Treasurer",
+    role: "SRC Treasurer",
     img: assets.immaculata,
   },
   {
     name: "Elera Obari",
-    role: "Vice President",
+    role: "SRC Vice President",
     id: 2,
     img: assets.elera,
   },
@@ -66,14 +66,14 @@ const candidates = [
   // },
   {
     id: 8,
-    name: "Lisset Mukiza",
+    name: "Lissete Mukiza",
     role: "SRC Academic Affairs Committee Head",
     img: assets.lisette,
   },
   {
     id: 9,
     name: "Yahya Bouhaik",
-    role: "Src President",
+    role: "SRC President",
     img: assets.yahya,
   },
   {
