@@ -6,7 +6,7 @@ import nelly from "./nelly.jpeg";
 import yahya from "./yahya.jpg";
 import olivier from "./ishimweO.jpeg";
 import farhaan from "./farhaan.jpg";
-import lisette from "./lisette.jpg";
+import lisette from "./lissette.jpg";
 import yvette from "./yvette.jpg";
 import janique from "./janique.jpg";
 import umar from "./umar.jpg";
