@@ -66,7 +66,7 @@ const candidates = [
   // },
   {
     id: 8,
-    name: "Lissete Mukiza",
+    name: "Lisette Mukiza",
     role: "SRC Academic Affairs Committee Head",
     img: assets.lisette,
   },
