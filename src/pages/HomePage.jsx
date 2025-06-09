@@ -40,12 +40,7 @@ const candidates = [
     role: "SRC Social Transformation Committee Head",
     img: assets.olivier,
   },
-  // {
-  //   id: 7,
-  //   name: "Farhaan Khuroolah",
-  //   role: "SRC Clubs and Societies Committee Head",
-  //   img: assets.farhaan,
-  // },
+
   {
     id: 6,
     name: "Kimunila Zhakata",
